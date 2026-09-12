@@ -1,0 +1,5 @@
+Segment,Num_Customers,Avg_Recency,Avg_Frequency,Avg_Monetary,Avg_Predicted_CLV,Churn_Rate,elasticity,p_value,Recommended_Action
+Champions,1188,27.43,19.34,11014.37,5393.0,0.06,-1.8687455484297535,0.0027846762452912,Protect & reward loyalty; avoid discounting (elastic even for loyal buyers)
+New/Occasional,1251,28.44,3.04,865.11,1030.74,0.03,-2.3667061364978705,0.0031728825035085,Use targeted promos; most price-responsive segment with low churn risk
+At-Risk,1465,227.87,5.1,2002.1,826.58,0.82,-0.4382196277058703,0.5124686279118308,"Priority retention target; use personalized win-back, not price cuts (elasticity unproven)"
+Lost/Inactive,1974,395.86,1.38,325.75,92.87,0.95,1.945053547812712,0.0002302826674142,"Deprioritize; low-cost win-back only, poor ROI on retention spend"
